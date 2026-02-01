@@ -1,7 +1,0 @@
-In Terminal 1
-
-uvicorn main:app --reload 
-
-In Terminal 2
-
-streamlit run dashboard.py
