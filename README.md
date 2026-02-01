@@ -89,7 +89,7 @@ ENERGY-PREDICTION-SYSTEM/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/energy-prediction.git
+git clone https://github.com/makadiyapreet/energy-prediction.git
 cd energy-prediction
 ```
 
@@ -176,7 +176,7 @@ This project was developed by a team of 7 members as a Final Year Project.
 
 ## 📜 License
 
-This project was created for **educational purposes** as a Final Year Project (FYP) submission. It is not intended for commercial use.
+This project was created for **educational purposes** as a Third Year Project (TYP) submission. It is not intended for commercial use.
 
 ---
 
